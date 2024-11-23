@@ -1,5 +1,5 @@
 public static void main() {i
     int i;
 
-    for(i=0;i<=20;i++){
+    for(i=0;i<=30;i++){
         System.out.println("Number: " + i);dcvskhcvdsjkcv xjkzv  my name is pk i am a devops engx
