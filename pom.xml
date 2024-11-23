@@ -1,5 +1,6 @@
-public static void main() {i
+public static void main() {
     int i;
 
-    for(i=0;i<=30;i++){
-        System.out.println("Number: " + i);dcvskhcvdsjkcv xjkzv  my name is pk i am a devops engx
+    for(i=0;i<20;i++){
+        System.out.println("Number 30")
+
