@@ -4,4 +4,3 @@ public static void main() {
 
     for(i=0;i<20;i++){
         System.out.println("Number 30")
-####
